@@ -20,7 +20,6 @@ class MainActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
 
-    //Create Calculation
 
     }
     fun ortalamaHesaplama(view: View){
